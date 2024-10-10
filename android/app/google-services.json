@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20702471380",
+    "project_id": "cpmad-midterm",
+    "storage_bucket": "cpmad-midterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20702471380:android:ee2e183c81aa9cc3dd0741",
+        "android_client_info": {
+          "package_name": "com.cpmad_midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgtYO56xFTNroJjrRUh3YDihKh2yILdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
